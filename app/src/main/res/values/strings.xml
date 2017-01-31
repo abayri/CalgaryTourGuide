@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name">Calgary Tour Guide</string>
+
+    <!-- Category name for parks -->
+    <string name="category_parks">Parks</string>
+
+    <!-- Category name for museums -->
+    <string name="category_museums">Museums</string>
+
+    <!-- Category name for buildings -->
+    <string name="category_games">Games</string>
+
+    <!-- Category name for food and drinks -->
+    <string name="category_food_drinks">Food</string>
+
+    <!-- Strings for Parks Fragment -->
+    <string name="park_activity_1">Fish Creek Provincial Park</string>
+    <string name="park_activity_2">Nose Hill Park</string>
+    <string name="park_activity_3">Bowness Park</string>
+    <string name="park_activity_4">Prince\'s Island Park</string>
+    <string name="park_activity_5">Edworthy Park</string>
+    <string name="park_activity_6">Confederation Park</string>
+    <string name="park_activity_7">North Glenmore Park</string>
+    <string name="park_activity_8">South Glenmore Park</string>
+
+    <string name="park_address_1">15979 Bow Bottom Trail SE</string>
+    <string name="park_address_2">5620 14 Street NW</string>
+    <string name="park_address_3">8900 48 Avenue NW</string>
+    <string name="park_address_4">698 Eau Claire Avenue SW</string>
+    <string name="park_address_5">5050 Spruce Drive SW</string>
+    <string name="park_address_6">905 30 Avenue NW</string>
+    <string name="park_address_7">7305 Crowchild Trail SW</string>
+    <string name="park_address_8">8415 24 Street SW</string>
+
+    <!-- Strings for Museums Fragment -->
+    <string name="museums_activity_1">The Military Museums</string>
+    <string name="museums_activity_2">Gasoline Alley Museum</string>
+    <string name="museums_activity_3">Glenbow Museum</string>
+    <string name="museums_activity_4">Studio Bell</string>
+    <string name="museums_activity_5">TELUS Spark</string>
+    <string name="museums_activity_6">Canada\'s Sport Hall of Fame</string>
+    <string name="museums_activity_7">The Hangar Flight Museum</string>
+    <string name="museums_activity_8">Chinese Cultural Centre Museum</string>
+
+    <string name="museums_description_1">Looking into the history of past wars</string>
+    <string name="museums_description_2">Celebrating the evolution of industrial design</string>
+    <string name="museums_description_3">Observing the history of Western Canada</string>
+    <string name="museums_description_4">Home of the National Music Centre</string>
+    <string name="museums_description_5">A science museum with interactive exhibits</string>
+    <string name="museums_description_6">Celebrating Canadian sports\' acheivements</string>
+    <string name="museums_description_7">Observing aircrafts and aeronautical engines</string>
+    <string name="museums_description_8">Looking into the Chinese history of Calgary</string>
+
+    <string name="museums_address_1">4520 Crowchild Trail SW</string>
+    <string name="museums_address_2">1900 Heritage Dr SW</string>
+    <string name="museums_address_3">130 9 Avenue SE</string>
+    <string name="museums_address_4">850 4 Street SE</string>
+    <string name="museums_address_5">220 St Georges Drive NE</string>
+    <string name="museums_address_6">169 Canada Olympic Road SW</string>
+    <string name="museums_address_7">4629 McCall Way NE</string>
+    <string name="museums_address_8">197 1 Street SW</string>
+
+    <string name="museums_phone_1">4034102340</string>
+    <string name="museums_phone_2">4032688500</string>
+    <string name="museums_phone_3">4032684100</string>
+    <string name="museums_phone_4">4035435115</string>
+    <string name="museums_phone_5">4038176800</string>
+    <string name="museums_phone_6">4037761040</string>
+    <string name="museums_phone_7">4032503752</string>
+    <string name="museums_phone_8">4032625071</string>
+
+    <!-- Strings for Games Fragment -->
+    <string name="games_activity_1">Escape Capers</string>
+    <string name="games_activity_2">Skyline Luge</string>
+    <string name="games_activity_3">Calgary Corn Maze</string>
+    <string name="games_activity_4">Flying Squirrel</string>
+    <string name="games_activity_5">Speeders</string>
+    <string name="games_activity_6">The Backyard Axe Throwing League</string>
+    <string name="games_activity_7">Bragg Creek Paintball</string>
+    <string name="games_activity_8">Stronghold - Calgary Climbing Centre</string>
+
+    <string name="games_description_1">Calgary\'s only hosted escape room experience</string>
+    <string name="games_description_2">A fast-paced activity for everyone to enjoy</string>
+    <string name="games_description_3">A place for farm filled adventures</string>
+    <string name="games_description_4">A trampoline fun park</string>
+    <string name="games_description_5">An indoor go-kart track</string>
+    <string name="games_description_6">Experience the thrill of axe throwing</string>
+    <string name="games_description_7">An outdoor paintballing experience</string>
+    <string name="games_description_8">An indoor rock climbing facility</string>
+
+    <string name="games_address_1">4235 16 Street SE</string>
+    <string name="games_address_2">88 Canada Olympic Road SW</string>
+    <string name="games_address_3">284022 Township Road 224</string>
+    <string name="games_address_4">572 Aero Drive NE #105</string>
+    <string name="games_address_5">58 Aero Drive NE</string>
+    <string name="games_address_6">2151 32 Street NE #80</string>
+    <string name="games_address_7">2221 Highway 22, Bragg Creek</string>
+    <string name="games_address_8">140 15 Avenue NW</string>
+
+    <string name="games_phone_1">4039039162</string>
+    <string name="games_phone_2">4037760617</string>
+    <string name="games_phone_3">4036482719</string>
+    <string name="games_phone_4">4038792148</string>
+    <string name="games_phone_5">4032303009</string>
+    <string name="games_phone_6">4037477606</string>
+    <string name="games_phone_7">4032828079</string>
+    <string name="games_phone_8">4032766484</string>
+
+    <!-- Strings for Food Fragment -->
+    <string name="food_activity_1">Big Rock Brewery</string>
+    <string name="food_activity_2">Calgary Farmers\' Market</string>
+    <string name="food_activity_3">Wild Rose Brewery</string>
+    <string name="food_activity_4">Minhas Brewery</string>
+    <string name="food_activity_5">Red\'s Diner</string>
+    <string name="food_activity_6">Moti Mahal</string>
+    <string name="food_activity_7">Open Sesame</string>
+    <string name="food_activity_8">River Cafe</string>
+
+    <string name="food_description_1">A brewery founded in 1985 by Ed McNally</string>
+    <string name="food_description_2">Calgary\'s source of farm-fresh food</string>
+    <string name="food_description_3">Liquor store providing Wild Rose craft beer</string>
+    <string name="food_description_4">A brewery owned by the Minhas\' siblings</string>
+    <string name="food_description_5">An all day breakfast diner</string>
+    <string name="food_description_6">An elegant Indian restaurant</string>
+    <string name="food_description_7">Sleek space with a range of Pan-Asian fare</string>
+    <string name="food_description_8">A world class restaurant on Prince\'s Island Park</string>
+
+    <string name="food_address_1">5555 76 Avenue SE</string>
+    <string name="food_address_2">510 77 Avenue SE</string>
+    <string name="food_address_3">4580 Quesnay Wood Drive SW</string>
+    <string name="food_address_4">1314 44 Avenue NE</string>
+    <string name="food_address_5">1415 4 Street SW</string>
+    <string name="food_address_6">1805 14 Street SW</string>
+    <string name="food_address_7">6920 Macleod Trail South</string>
+    <string name="food_address_8">25 Prince\'s Island</string>
+
+    <string name="food_phone_1">4037203239</string>
+    <string name="food_phone_2">4032409113</string>
+    <string name="food_phone_3">4037275451</string>
+    <string name="food_phone_4">4036953701</string>
+    <string name="food_phone_5">4032663448</string>
+    <string name="food_phone_6">4032289990</string>
+    <string name="food_phone_7">4032590123</string>
+    <string name="food_phone_8">4032617670</string>
+
+</resources>
